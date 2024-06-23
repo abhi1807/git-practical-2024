@@ -4,3 +4,4 @@ Adding new Line
 add new line
 add new line
 add new line
+adding new line for testing 3 way merge
