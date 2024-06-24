@@ -6,4 +6,3 @@ add new line
 add new line
 adding new line for testing 3 way merge
 adding new line
-adding new line
